@@ -1,7 +1,7 @@
 /**
  * @name PplSearch
  * @description Поиск участников с двумя ролями
- * @version 1.0
+ * @version 1.1
  * @author You
  * @updateUrl https://raw.githubusercontent.com/ImStoleYourCheese/blyatestplugiin/main/pplsearch.plugin.js
  */
